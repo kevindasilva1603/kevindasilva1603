@@ -6,7 +6,7 @@ Salut ! Je suis un étudiant passionné de développement full-stack. J'aime cr�
 
 ## Compétences
 
-- Langages de programmation : JavaScript, HTML, CSS
+- Langages de programmation : JavaScript, HTML, CSS, PHP
 - Bases de données :  MySQL
 - Outils de développement : Git, Visual Studio Code, Figma
 - Autres compétences : Responsive Design, Gestion de projet, Résolution de problèmes
