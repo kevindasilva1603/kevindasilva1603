@@ -21,7 +21,7 @@ Salut ! Je suis un étudiant passionné de développement full-stack. J'aime cr�
 
 ## Projets
 
-- [Portfolio]([lien_vers_le_projet](https://portofoliokevin.netlify.app/)) - Mon Portoflio.
+- [Portfolio](https://portofoliokevin.netlify.app/) - Mon Portoflio.
 - [Allocine]([lien_vers_le_projet](https://allocinereproduction.netlify.app/)) - Reproduction AlloCine Responsive.
 - [Météo]([lien_vers_le_projet](https://weatherappterre.netlify.app/)) - Récupérer les données d'une API Météo et les afficher.
 - [Tmdb]([lien_vers_le_projet](https://kevindasilvatmdb.netlify.app/)) - Récupérer les affiches des films du moment sur une API.
