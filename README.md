@@ -23,7 +23,7 @@ Salut ! Je suis un étudiant passionné de développement full-stack. J'aime cr�
 
 - [Portfolio](https://portofoliokevin.netlify.app/) - Mon Portoflio.
 - [Allocine](https://allocinereproduction.netlify.app/) - Reproduction AlloCine Responsive.
-- [Météo]((https://weatherappterre.netlify.app/) - Récupérer les données d'une API Météo et les afficher.
+- [Météo](https://weatherappterre.netlify.app/) - Récupérer les données d'une API Météo et les afficher.
 - [Tmdb](https://kevindasilvatmdb.netlify.app/) - Récupérer les affiches des films du moment sur une API.
 - [Kaplish](https://kaplishfilm.netlify.app/) - Reproduction d'une maquette fais par une autre personne.
 
